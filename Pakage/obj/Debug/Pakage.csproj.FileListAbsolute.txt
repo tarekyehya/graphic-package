@@ -1,0 +1,14 @@
+C:\Users\tarek\source\repos\Pakage\Pakage\bin\Debug\Pakage.exe.config
+C:\Users\tarek\source\repos\Pakage\Pakage\bin\Debug\Pakage.exe
+C:\Users\tarek\source\repos\Pakage\Pakage\bin\Debug\Pakage.pdb
+C:\Users\tarek\source\repos\Pakage\Pakage\obj\Debug\Pakage.csprojAssemblyReference.cache
+C:\Users\tarek\source\repos\Pakage\Pakage\obj\Debug\Pakage.form1.resources
+C:\Users\tarek\source\repos\Pakage\Pakage\obj\Debug\Pakage.Form2.resources
+C:\Users\tarek\source\repos\Pakage\Pakage\obj\Debug\Pakage.Properties.Resources.resources
+C:\Users\tarek\source\repos\Pakage\Pakage\obj\Debug\Pakage.csproj.GenerateResource.cache
+C:\Users\tarek\source\repos\Pakage\Pakage\obj\Debug\Pakage.csproj.CoreCompileInputs.cache
+C:\Users\tarek\source\repos\Pakage\Pakage\obj\Debug\Pakage.exe
+C:\Users\tarek\source\repos\Pakage\Pakage\obj\Debug\Pakage.pdb
+C:\Users\tarek\source\repos\Pakage\Pakage\obj\Debug\Pakage.Bresenham.resources
+C:\Users\tarek\source\repos\Pakage\Pakage\obj\Debug\Pakage.circle.resources
+C:\Users\tarek\source\repos\Pakage\Pakage\obj\Debug\Pakage.elips.resources
